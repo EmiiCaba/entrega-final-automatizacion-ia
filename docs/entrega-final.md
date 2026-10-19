@@ -61,7 +61,7 @@ Las rutas en rojo del diagrama terminan en **Registrar error**: crea un registro
 
 ### Video demo
 
-Video de hasta 3 minutos con el trigger, el procesamiento en n8n, la aprobación en Slack y el mail recibido: **\[PEGAR ENLACE — YouTube no listado, Loom o Drive\]**
+Video de hasta 3 minutos con el trigger, el procesamiento en n8n, la aprobación en Slack y el mail recibido: **[https://youtu.be/ySERYyfy0AA](https://youtu.be/ySERYyfy0AA)**
 
 ## 2. Manual operativo de datos
 
@@ -310,7 +310,7 @@ El flujo se ejecutó 6 veces el 18 de octubre de 2026: 3 por el camino feliz y 3
 | --- | --- |
 | Base de datos (vista de solo lectura de Leads, sin email ni teléfono) | [Leads · vista de solo lectura](https://airtable.com/appKQlv5Lk7r09PVh/shrPiTnhaOWvlK00k) |
 | Dashboard de control (Shared View de Panel KPI) | [Dashboard de control · Panel KPI](https://airtable.com/appKQlv5Lk7r09PVh/shr6cv2dVvK2CPJd2) |
-| Video demo (hasta 3 min) | \[PEGAR ENLACE\] |
+| Video demo (hasta 3 min) | [Video en YouTube](https://youtu.be/ySERYyfy0AA) |
 | JSON del flujo en Google Drive (opcional, con permiso de lectura) | \[PEGAR ENLACE\] |
 
 ### Test de estrés: plan de pruebas
@@ -352,14 +352,18 @@ CONTEXTO:
 
 ### Capturas de las ejecuciones
 
-- [ ] Lienzo completo del flujo en n8n —
-- [ ] Pestaña Executions con las 6 ejecuciones — 
-- [ ] Mensaje de aprobación en Slack con los botones y la respuesta elegida —
-- [ ] Mail recibido por el cliente de prueba — 
-- [ ] Tabla Leads con leads en distintos estados — 
-- [ ] Tabla Errores con los registros del camino infeliz — 
-- [ ] Panel KPI con los 3 KPIs calculados —
+- [ ] Lienzo completo del flujo en n8n — \[PEGAR CAPTURA\]
+- [ ] Pestaña Executions con las 6 ejecuciones — \[PEGAR CAPTURA\]
+- [ ] Mensaje de aprobación en Slack con los botones y la respuesta elegida — \[PEGAR CAPTURA\]
+- [ ] Mail recibido por el cliente de prueba — \[PEGAR CAPTURA\]
+- [ ] Tabla Leads con leads en distintos estados — \[PEGAR CAPTURA\]
+- [ ] Tabla Errores con los registros del camino infeliz — \[PEGAR CAPTURA\]
+- [ ] Panel KPI con los 3 KPIs calculados — \[PEGAR CAPTURA\]
 
 ### JSON del flujo
 
+Exportado desde n8n con *Download*. Las credenciales no se exportan.
 
+```json
+[PEGAR AQUÍ EL JSON EXPORTADO DEL FLUJO]
+```
