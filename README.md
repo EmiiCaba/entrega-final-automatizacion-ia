@@ -111,9 +111,9 @@ Capturas en [`img/evidencias/`](img/evidencias/).
 │   └── entrega-final.md    # Documentación completa de la entrega
 ├── workflow/
 │   └── workflow.json       # Flujo exportado de n8n (sin credenciales)
-├── evidencias/             # Capturas de las ejecuciones
 └── img/
-    └── arquitectura.png    # Diagrama de arquitectura
+    ├── arquitectura.png    # Diagrama de arquitectura
+    └── evidencias/         # Capturas de las ejecuciones
 ```
 
 ---
