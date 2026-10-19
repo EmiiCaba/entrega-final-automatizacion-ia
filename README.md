@@ -94,7 +94,7 @@ Con gpt-6-luna, procesar **1.000 leads cuesta unos USD 0,33**, un 95% menos que 
 
 Resultado en el dashboard: 6 leads · 66,7% de aprobación · 2 enviados · 2 VIP · 50% de error (esperable: 3 de las 6 pruebas eran caminos de error).
 
-Capturas en [`evidencias/`](evidencias/).
+Capturas en [`img/evidencias/`](img/evidencias/).
 
 ## Cómo importarlo
 
